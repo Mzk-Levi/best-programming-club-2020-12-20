@@ -5,6 +5,8 @@
 1. BYO-Assignment: Add a new feature to the Farmer's Market shop that would improve the user experience.
 2. Come up with a nicer user interface design (in an Adobe program, [Figma](https://www.figma.com/), [Sketch](https://www.sketch.com/), etc) and add a screenshot of it to this README (See [GitHub guide on images in Markdown](https://guides.github.com/features/mastering-markdown/).)
 
+![UI screenshot](/farmers_market_UI.png)
+
 ### Getting the assignment
 
 [Fork this repository](https://guides.github.com/activities/forking/)
